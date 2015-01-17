@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListView Using Strings file</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="cars">
+        <item >Ferrari</item>
+        <item >BMW</item>
+        <item >Mercedes</item>
+        <item >Hyundai</item>
+     
+        
+    </string-array>
+
+</resources>
